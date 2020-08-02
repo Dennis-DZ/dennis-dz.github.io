@@ -1,2 +1,2 @@
 # dennis-dz.github.io
-Monkecraft Server
+Monkecraft Server Website
